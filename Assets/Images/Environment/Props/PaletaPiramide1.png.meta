@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: b86f4258bc657174cbfb0bd5219783b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5530795224624222813
+    second: PaletaPiramide1_0
+  - first:
+      213: -6937712774575332679
+    second: PaletaPiramide1_1
+  - first:
+      213: -4280549185459847406
+    second: PaletaPiramide1_2
+  - first:
+      213: -872801742605712072
+    second: PaletaPiramide1_3
+  - first:
+      213: -1926492177446476467
+    second: PaletaPiramide1_4
+  - first:
+      213: -5137484918087899195
+    second: PaletaPiramide1_5
+  - first:
+      213: -6834496780981373099
+    second: PaletaPiramide1_6
+  - first:
+      213: 7179574088951450513
+    second: PaletaPiramide1_7
+  - first:
+      213: -869474556173145916
+    second: PaletaPiramide1_8
+  - first:
+      213: -6732958638844841908
+    second: PaletaPiramide1_9
+  - first:
+      213: -1520226848849509805
+    second: PaletaPiramide1_10
+  - first:
+      213: -6242429967702636070
+    second: PaletaPiramide1_11
+  - first:
+      213: -7315397915640803600
+    second: PaletaPiramide1_12
+  - first:
+      213: -3989640995480757911
+    second: PaletaPiramide1_13
+  - first:
+      213: -4786805836172391085
+    second: PaletaPiramide1_14
+  - first:
+      213: -6989853359335889200
+    second: PaletaPiramide1_15
+  - first:
+      213: -7054426962575036666
+    second: PaletaPiramide1_16
+  - first:
+      213: -4484048190204183214
+    second: PaletaPiramide1_17
+  - first:
+      213: -8503090286922780286
+    second: PaletaPiramide1_18
+  - first:
+      213: -5628772303698743434
+    second: PaletaPiramide1_19
+  - first:
+      213: -4517829467442947410
+    second: PaletaPiramide1_20
+  - first:
+      213: -4118461238917565092
+    second: PaletaPiramide1_21
+  - first:
+      213: -2686893152086015542
+    second: PaletaPiramide1_22
+  - first:
+      213: 3961045106029925882
+    second: PaletaPiramide1_23
+  - first:
+      213: 8205181676732092542
+    second: PaletaPiramide1_24
+  - first:
+      213: -6750195066432570818
+    second: PaletaPiramide1_25
+  - first:
+      213: 7503604009808114244
+    second: PaletaPiramide1_26
+  - first:
+      213: 3979631583532578174
+    second: PaletaPiramide1_27
+  - first:
+      213: -115843309090839829
+    second: PaletaPiramide1_28
+  - first:
+      213: 1886996263110495953
+    second: PaletaPiramide1_29
+  - first:
+      213: 4861642873309332281
+    second: PaletaPiramide1_30
+  - first:
+      213: -2847959013184580826
+    second: PaletaPiramide1_31
+  - first:
+      213: 3888619557854193677
+    second: PaletaPiramide1_32
+  - first:
+      213: 3554267742178909998
+    second: PaletaPiramide1_33
+  - first:
+      213: 6685477442060185334
+    second: PaletaPiramide1_34
+  - first:
+      213: 2457472900906754378
+    second: PaletaPiramide1_35
+  - first:
+      213: 2490486201956348537
+    second: PaletaPiramide1_36
+  - first:
+      213: 4167070341408765151
+    second: PaletaPiramide1_37
+  - first:
+      213: 2552016480222006950
+    second: PaletaPiramide1_38
+  - first:
+      213: 8896960991660176838
+    second: PaletaPiramide1_39
+  - first:
+      213: -8700232298311495404
+    second: PaletaPiramide1_40
+  - first:
+      213: -3455491693744904084
+    second: PaletaPiramide1_41
+  - first:
+      213: 5324754278240464597
+    second: PaletaPiramide1_42
+  - first:
+      213: -5794430023000192086
+    second: PaletaPiramide1_43
+  - first:
+      213: 4834573586317654769
+    second: PaletaPiramide1_44
+  - first:
+      213: 4409716306657702970
+    second: PaletaPiramide1_45
+  - first:
+      213: 2374503782647515203
+    second: PaletaPiramide1_46
+  - first:
+      213: -8629199282193877681
+    second: PaletaPiramide1_47
+  - first:
+      213: -5477168764832828639
+    second: PaletaPiramide1_48
+  - first:
+      213: 4532712435661882610
+    second: PaletaPiramide1_49
+  - first:
+      213: -71431585268478874
+    second: PaletaPiramide1_50
+  - first:
+      213: 7798497472110543056
+    second: PaletaPiramide1_51
+  - first:
+      213: -3088416493950826541
+    second: PaletaPiramide1_52
+  - first:
+      213: -4285229167863869080
+    second: PaletaPiramide1_53
+  - first:
+      213: 2469542937708676570
+    second: PaletaPiramide1_54
+  - first:
+      213: 7542419419600584783
+    second: PaletaPiramide1_55
+  - first:
+      213: -1564647686537746951
+    second: PaletaPiramide1_56
+  - first:
+      213: -6770398487780875472
+    second: PaletaPiramide1_57
+  - first:
+      213: -6253645200753368485
+    second: PaletaPiramide1_58
+  - first:
+      213: 2068878353885661719
+    second: PaletaPiramide1_59
+  - first:
+      213: 515452211933418580
+    second: PaletaPiramide1_60
+  - first:
+      213: -8189590421568527233
+    second: PaletaPiramide1_61
+  - first:
+      213: -6623593216251243908
+    second: PaletaPiramide1_62
+  - first:
+      213: 8065291166057192557
+    second: PaletaPiramide1_63
+  - first:
+      213: -881073482181881606
+    second: PaletaPiramide1_64
+  - first:
+      213: -2178140605984464333
+    second: PaletaPiramide1_65
+  - first:
+      213: 2649520475640523817
+    second: PaletaPiramide1_66
+  - first:
+      213: -5836614957449239514
+    second: PaletaPiramide1_67
+  - first:
+      213: -3499220995210053986
+    second: PaletaPiramide1_68
+  - first:
+      213: -2283265727271087341
+    second: PaletaPiramide1_69
+  - first:
+      213: -1594024555431547361
+    second: PaletaPiramide1_70
+  - first:
+      213: -5986232125552870375
+    second: PaletaPiramide1_71
+  - first:
+      213: -1838976248419697611
+    second: PaletaPiramide1_72
+  - first:
+      213: 813930936896502086
+    second: PaletaPiramide1_73
+  - first:
+      213: 1806999322445032499
+    second: PaletaPiramide1_74
+  - first:
+      213: -4759568262153343720
+    second: PaletaPiramide1_75
+  - first:
+      213: -3290360738061775492
+    second: PaletaPiramide1_76
+  - first:
+      213: 1197255143060916025
+    second: PaletaPiramide1_77
+  - first:
+      213: -1123735678342877101
+    second: PaletaPiramide1_78
+  - first:
+      213: -5629861900466378491
+    second: PaletaPiramide1_79
+  - first:
+      213: 1030279903117760269
+    second: PaletaPiramide1_80
+  - first:
+      213: 3027654784715445753
+    second: PaletaPiramide1_81
+  - first:
+      213: 7198231213878545509
+    second: PaletaPiramide1_82
+  - first:
+      213: -4778336331419050486
+    second: PaletaPiramide1_83
+  - first:
+      213: 1178874290415584023
+    second: PaletaPiramide1_84
+  - first:
+      213: -870168975662807419
+    second: PaletaPiramide1_85
+  - first:
+      213: 3906806928710473238
+    second: PaletaPiramide1_86
+  - first:
+      213: 4188987018892220358
+    second: PaletaPiramide1_87
+  - first:
+      213: -9036468124073756302
+    second: PaletaPiramide1_88
+  - first:
+      213: -7755785594981701617
+    second: PaletaPiramide1_89
+  - first:
+      213: 5811095499624404326
+    second: PaletaPiramide1_90
+  - first:
+      213: -6507259579939939410
+    second: PaletaPiramide1_91
+  - first:
+      213: 2302083277778807964
+    second: PaletaPiramide1_92
+  - first:
+      213: -1622568589675526802
+    second: PaletaPiramide1_93
+  - first:
+      213: -3728695670954038278
+    second: PaletaPiramide1_94
+  - first:
+      213: -3147883620106549058
+    second: PaletaPiramide1_95
+  - first:
+      213: -6103417763711267445
+    second: PaletaPiramide1_96
+  - first:
+      213: 4026705609600446499
+    second: PaletaPiramide1_97
+  - first:
+      213: -6457801627431630823
+    second: PaletaPiramide1_98
+  - first:
+      213: 2663227221460221960
+    second: PaletaPiramide1_99
+  - first:
+      213: 2154309637737657670
+    second: PaletaPiramide1_100
+  - first:
+      213: 3235892882444394732
+    second: PaletaPiramide1_101
+  - first:
+      213: -9114300913513264749
+    second: PaletaPiramide1_102
+  - first:
+      213: 8937857286742692033
+    second: PaletaPiramide1_103
+  - first:
+      213: -946349824760777341
+    second: PaletaPiramide1_104
+  - first:
+      213: 324681604308903762
+    second: PaletaPiramide1_105
+  - first:
+      213: -6587769125767729047
+    second: PaletaPiramide1_106
+  - first:
+      213: -4366767080779494464
+    second: PaletaPiramide1_107
+  - first:
+      213: -3639105137376489737
+    second: PaletaPiramide1_108
+  - first:
+      213: 4930934295760891213
+    second: PaletaPiramide1_109
+  - first:
+      213: 7219063178454282081
+    second: PaletaPiramide1_110
+  - first:
+      213: 2792785532402709102
+    second: PaletaPiramide1_111
+  - first:
+      213: -3720131665055840241
+    second: PaletaPiramide1_112
+  - first:
+      213: 332465410097192997
+    second: PaletaPiramide1_113
+  - first:
+      213: 1571750666132452036
+    second: PaletaPiramide1_114
+  - first:
+      213: 4723285348680839931
+    second: PaletaPiramide1_115
+  - first:
+      213: 5588751769473680146
+    second: PaletaPiramide1_116
+  - first:
+      213: 2365708532143196775
+    second: PaletaPiramide1_117
+  - first:
+      213: 5841933634597214216
+    second: PaletaPiramide1_118
+  - first:
+      213: -1850864951468545127
+    second: PaletaPiramide1_119
+  - first:
+      213: 1356560639670742373
+    second: PaletaPiramide1_120
+  - first:
+      213: 5197787215579172201
+    second: PaletaPiramide1_121
+  - first:
+      213: 5550460446844840319
+    second: PaletaPiramide1_122
+  - first:
+      213: -2208571880173871508
+    second: PaletaPiramide1_123
+  - first:
+      213: 439811355118840978
+    second: PaletaPiramide1_124
+  - first:
+      213: 3133769315882914200
+    second: PaletaPiramide1_125
+  - first:
+      213: 2703903435211389051
+    second: PaletaPiramide1_126
+  - first:
+      213: -7227787883655146688
+    second: PaletaPiramide1_127
+  - first:
+      213: 2355956711528116642
+    second: PaletaPiramide1_128
+  - first:
+      213: -6822167927257235016
+    second: PaletaPiramide1_129
+  - first:
+      213: -5880566010726013343
+    second: PaletaPiramide1_130
+  - first:
+      213: -4018957683259447305
+    second: PaletaPiramide1_131
+  - first:
+      213: -2991304345745117503
+    second: PaletaPiramide1_132
+  - first:
+      213: 5432649831694648191
+    second: PaletaPiramide1_133
+  - first:
+      213: -8627406249053816730
+    second: PaletaPiramide1_134
+  - first:
+      213: -894196756158916954
+    second: PaletaPiramide1_135
+  - first:
+      213: -1549873915687353679
+    second: PaletaPiramide1_136
+  - first:
+      213: -1563609328281105690
+    second: PaletaPiramide1_137
+  - first:
+      213: 4571884406094277169
+    second: PaletaPiramide1_138
+  - first:
+      213: -2648672721006961307
+    second: PaletaPiramide1_139
+  - first:
+      213: -967045613403287469
+    second: PaletaPiramide1_140
+  - first:
+      213: 6190927052626470030
+    second: PaletaPiramide1_141
+  - first:
+      213: 7603238680449639872
+    second: PaletaPiramide1_142
+  - first:
+      213: 5281489536212584656
+    second: PaletaPiramide1_143
+  - first:
+      213: 778640377113907865
+    second: PaletaPiramide1_144
+  - first:
+      213: -5819698896431978962
+    second: PaletaPiramide1_145
+  - first:
+      213: -3715423503452836857
+    second: PaletaPiramide1_146
+  - first:
+      213: 4706107986900079791
+    second: PaletaPiramide1_147
+  - first:
+      213: 9049522394244857778
+    second: PaletaPiramide1_148
+  - first:
+      213: 3823181857609403102
+    second: PaletaPiramide1_149
+  - first:
+      213: 5147138960345393363
+    second: PaletaPiramide1_150
+  - first:
+      213: 9183531236902159439
+    second: PaletaPiramide1_151
+  - first:
+      213: -7692541742607006380
+    second: PaletaPiramide1_152
+  - first:
+      213: -6777245674727310607
+    second: PaletaPiramide1_153
+  - first:
+      213: -79635291625257604
+    second: PaletaPiramide1_154
+  - first:
+      213: 4037991986980068770
+    second: PaletaPiramide1_155
+  - first:
+      213: -4395775761369675573
+    second: PaletaPiramide1_156
+  - first:
+      213: 6811226205317171445
+    second: PaletaPiramide1_157
+  - first:
+      213: -1131157121716069390
+    second: PaletaPiramide1_158
+  - first:
+      213: -3280156386535002828
+    second: PaletaPiramide1_159
+  - first:
+      213: -6274395756171397636
+    second: PaletaPiramide1_160
+  - first:
+      213: 2435149613170695557
+    second: PaletaPiramide1_161
+  - first:
+      213: -6567017149388701133
+    second: PaletaPiramide1_162
+  - first:
+      213: -4395516458807945150
+    second: PaletaPiramide1_163
+  - first:
+      213: -1095211028364073251
+    second: PaletaPiramide1_164
+  - first:
+      213: 3796887091516226650
+    second: PaletaPiramide1_165
+  - first:
+      213: -5213128717065725619
+    second: PaletaPiramide1_166
+  - first:
+      213: 3773889918300229552
+    second: PaletaPiramide1_167
+  - first:
+      213: 16666108279573301
+    second: PaletaPiramide1_168
+  - first:
+      213: 1888488862684974073
+    second: PaletaPiramide1_169
+  - first:
+      213: 4563284125033097576
+    second: PaletaPiramide1_170
+  - first:
+      213: 4893545478747895459
+    second: PaletaPiramide1_171
+  - first:
+      213: 6600035607060175982
+    second: PaletaPiramide1_172
+  - first:
+      213: 6123856040952241064
+    second: PaletaPiramide1_173
+  - first:
+      213: -4860156098587626778
+    second: PaletaPiramide1_174
+  - first:
+      213: -158455545297385496
+    second: PaletaPiramide1_175
+  - first:
+      213: 867294627166479146
+    second: PaletaPiramide1_176
+  - first:
+      213: -4478835669156295890
+    second: PaletaPiramide1_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PaletaPiramide1_0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2226
+        width: 535
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52572114f451cc40800000000000000
+      internalID: 5530795224624222813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2065
+        width: 675
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ecb4a494224646adbaa480622cb4b
+      internalID: -6937712774575332679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 704
+        width: 580
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d91bf0656b46a4419c5fb0a7a807d4e
+      internalID: -4280549185459847406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 284
+        width: 791
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f8367cd5e65914f98758eceea82043
+      internalID: -872801742605712072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_4
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 48
+        width: 575
+        height: 1467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075b3089d8e3bd438dd5f9244282fef
+      internalID: -1926492177446476467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_5
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 62
+        width: 495
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9246f1f6a26874093adaa190bef9e1
+      internalID: -5137484918087899195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_6
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1537
+        width: 586
+        height: 1476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef8dc93eb33384094ce46f56be27ea
+      internalID: -6834496780981373099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2675
+        width: 1228
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0555abefb854545a9e4c052d5c841c
+      internalID: 7179574088951450513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2439
+        width: 1028
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c9ccae9d5ba94f84525d5559c88cb
+      internalID: -869474556173145916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1793
+        width: 499
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2e8d5b41c6064383db43126c8341a
+      internalID: -6732958638844841908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaletaPiramide1_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1207
+        width: 127
+        height: 1401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed335fa4594d854fb170b1114945d01
+      internalID: -1520226848849509805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0d6df14ac5576254a8f3c8b23ad8f3d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2048.0,"y":3072.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PaletaPiramide1_0: 5530795224624222813
+      PaletaPiramide1_1: -6937712774575332679
+      PaletaPiramide1_10: -1520226848849509805
+      PaletaPiramide1_2: -4280549185459847406
+      PaletaPiramide1_3: -872801742605712072
+      PaletaPiramide1_4: -1926492177446476467
+      PaletaPiramide1_5: -5137484918087899195
+      PaletaPiramide1_6: -6834496780981373099
+      PaletaPiramide1_7: 7179574088951450513
+      PaletaPiramide1_8: -869474556173145916
+      PaletaPiramide1_9: -6732958638844841908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

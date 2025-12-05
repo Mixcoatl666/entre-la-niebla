@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 613db28624155aa42a4e2248e1c036e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3950104182454099648
+    second: CerroObstacles_0
+  - first:
+      213: 3023592761820948559
+    second: CerroObstacles_1
+  - first:
+      213: 7843134607463297658
+    second: CerroObstacles_2
+  - first:
+      213: -1240270309577055488
+    second: CerroObstacles_3
+  - first:
+      213: 2762008349088572502
+    second: CerroObstacles_4
+  - first:
+      213: -7651412671626453146
+    second: CerroObstacles_5
+  - first:
+      213: -2968230736910215056
+    second: CerroObstacles_6
+  - first:
+      213: -533897070435003533
+    second: CerroObstacles_7
+  - first:
+      213: -7122499595981320495
+    second: CerroObstacles_8
+  - first:
+      213: -8342953734801713711
+    second: CerroObstacles_9
+  - first:
+      213: -8800914423236561079
+    second: CerroObstacles_10
+  - first:
+      213: -6456839434135596778
+    second: CerroObstacles_11
+  - first:
+      213: -6769037182039525502
+    second: CerroObstacles_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CerroObstacles_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1961
+        width: 1045
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce16fc43d691d630800000000000000
+      internalID: 3950104182454099648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_1
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1940
+        width: 941
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48a7c1e895f5f920800000000000000
+      internalID: 3023592761820948559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_2
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1493
+        width: 1268
+        height: 972
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a723c6bee5968dc60800000000000000
+      internalID: 7843134607463297658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1112
+        width: 958
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546612b5ff945620800000000000000
+      internalID: 2762008349088572502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1127
+        width: 946
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f58cdc6b8b0d590800000000000000
+      internalID: -7651412671626453146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 87
+        width: 1028
+        height: 935
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373991271773798f0800000000000000
+      internalID: -533897070435003533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_8
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 885
+        width: 1234
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8ba4aa5cc72d90800000000000000
+      internalID: -7122499595981320495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_10
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 127
+        width: 815
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9477f5816fedcd580800000000000000
+      internalID: -8800914423236561079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_11
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 109
+        width: 697
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111d949eb2b466a0800000000000000
+      internalID: -6456839434135596778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CerroObstacles_12
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 109
+        width: 580
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2877f1dfb8c8f02a0800000000000000
+      internalID: -6769037182039525502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 644a99bf5716f8b4fb7b9a6b8561297b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CerroObstacles_0: 3950104182454099648
+      CerroObstacles_1: 3023592761820948559
+      CerroObstacles_10: -8800914423236561079
+      CerroObstacles_11: -6456839434135596778
+      CerroObstacles_12: -6769037182039525502
+      CerroObstacles_2: 7843134607463297658
+      CerroObstacles_3: -1240270309577055488
+      CerroObstacles_4: 2762008349088572502
+      CerroObstacles_5: -7651412671626453146
+      CerroObstacles_6: -2968230736910215056
+      CerroObstacles_7: -533897070435003533
+      CerroObstacles_8: -7122499595981320495
+      CerroObstacles_9: -8342953734801713711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

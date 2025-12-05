@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 46ccc1725f73a21449be28113a05ab26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8528781659469084184
+    second: PlayerSwordWalk_0
+  - first:
+      213: 5345427726559792506
+    second: PlayerSwordWalk_1
+  - first:
+      213: 2242995045064851635
+    second: PlayerSwordWalk_2
+  - first:
+      213: -2046768929570721764
+    second: PlayerSwordWalk_3
+  - first:
+      213: -5070756775895547673
+    second: PlayerSwordWalk_4
+  - first:
+      213: -7666191238860973710
+    second: PlayerSwordWalk_5
+  - first:
+      213: -5484357408526246533
+    second: PlayerSwordWalk_6
+  - first:
+      213: 1238484800056531652
+    second: PlayerSwordWalk_7
+  - first:
+      213: 9083987974069768969
+    second: PlayerSwordWalk_8
+  - first:
+      213: 2135795226667765146
+    second: PlayerSwordWalk_9
+  - first:
+      213: -6640581950435101116
+    second: PlayerSwordWalk_10
+  - first:
+      213: 5848681847010389666
+    second: PlayerSwordWalk_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSwordWalk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 258
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816758b5bb15c5670800000000000000
+      internalID: 8528781659469084184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSwordWalk_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 19
+        width: 258
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dce1e2236ce2a40800000000000000
+      internalID: 5345427726559792506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSwordWalk_2
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 19
+        width: 258
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b04d0e0c18b02f10800000000000000
+      internalID: 2242995045064851635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSwordWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 19
+        width: 258
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0475e049d01a9b0800000000000000
+      internalID: -5070756775895547673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSwordWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 19
+        width: 258
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd28b8ef5a3e3b0800000000000000
+      internalID: -5484357408526246533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSwordWalk_8
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 19
+        width: 258
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035952feeec01e70800000000000000
+      internalID: 9083987974069768969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f7bebb8f98d5c7479c1fbe33c7e497e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerSwordWalk_0: 8528781659469084184
+      PlayerSwordWalk_1: 5345427726559792506
+      PlayerSwordWalk_10: -6640581950435101116
+      PlayerSwordWalk_11: 5848681847010389666
+      PlayerSwordWalk_2: 2242995045064851635
+      PlayerSwordWalk_3: -2046768929570721764
+      PlayerSwordWalk_4: -5070756775895547673
+      PlayerSwordWalk_5: -7666191238860973710
+      PlayerSwordWalk_6: -5484357408526246533
+      PlayerSwordWalk_7: 1238484800056531652
+      PlayerSwordWalk_8: 9083987974069768969
+      PlayerSwordWalk_9: 2135795226667765146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
