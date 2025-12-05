@@ -149,22 +149,10 @@ cd entre-la-niebla
 | -------------- | ------------- | ----------------------------------------------------------------- |
 | 🌐 Web (WebGL) | ✅ Disponible | [Jugar en Navegador](https://noah-torres.itch.io/entre-la-niebla) |
 | 📱 Android     | ✅ Disponible | [Descargar APK](https://noah-torres.itch.io/entre-la-niebla)      |
-| 🍎 iOS         | ✅ Disponible | [Descargar](https://noah-torres.itch.io/entre-la-niebla)          |
 | 🖥️ Windows     | ✅ Disponible | [Descargar](https://noah-torres.itch.io/entre-la-niebla)          |
-| 🍏 macOS       | ✅ Disponible | [Descargar](https://noah-torres.itch.io/entre-la-niebla)          |
-| 🐧 Linux       | ✅ Disponible | [Descargar](https://noah-torres.itch.io/entre-la-niebla)          |
+
 
 </div>
-
----
-
-## 📄 Documentación Adicional
-
-- 📊 [Modelo de Negocio](https://docs.google.com/document/d/1GEXCLSqKFOkjXzdA5GDYgZL21S9_8o_VJnRG3rYyr0o/edit?tab=t.0)
-- 🎮 [Configuración de Controles Móviles](CONFIGURACION_CONTROLES_MOVILES.md)
-- 💬 [Configuración del Diálogo de Victoria](CONFIGURACION_DIALOGO_VICTORIA.md)
-- 📱 [Configuración de Resolución Móvil](CONFIGURACION_RESOLUCION_MOVIL.md)
-- ❤️ [Instrucciones del Sistema de Salud](SISTEMA_SALUD_INSTRUCCIONES.txt)
 
 ---
 
